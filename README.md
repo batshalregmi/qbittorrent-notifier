@@ -1,4 +1,4 @@
-# qbittorrent_notifier
+# qbittorrent-notifier
 
 This project is a simple notification tool for qBittorrent. It sends notifications to [Pushover](https://pushover.net/) whenever a torrent download completes or is added. 
 
